@@ -1,6 +1,8 @@
 # Evaluating OpenAI’s Whisper ASR: Performance Analysis Across Diverse Accents and Speaker Traits
 Authors: Galbert Graham & Nathan Roll
 
+[![DOI](https://zenodo.org/badge/DOI/10.1121/10.0024876.svg)](https://doi.org/10.1121/10.0024876)
+
 This repository contains resources and additional information related to the research paper titled "Evaluating OpenAI’s Whisper ASR: Performance Analysis Across Diverse Accents and Speaker Traits".
 
 ### Citation
@@ -8,11 +10,18 @@ This repository contains resources and additional information related to the res
 If you find this work useful for your research, please consider citing:
 
 ```bibtex
-@article{
-    author = {Graham, Galbert and Roll, Nathan},
-    title = {Evaluating OpenAI’s Whisper ASR: Performance Analysis Across Diverse Accents and Speaker Traits},
+@article{10.1121/10.0024876,
+    author = {Graham, Calbert and Roll, Nathan},
+    title = "{Evaluating OpenAI's Whisper ASR: Performance analysis across diverse accents and speaker traits}",
     journal = {JASA Express Letters},
-    year = {Forthcoming},
-    abstract = {This study investigates Whisper's ASR system performance across diverse native and non-native English accents. Results reveal superior recognition in American compared to British and Australian English accents, with similar performance in Canadian English. Overall, native English accents demonstrate higher accuracy than non-native ones. Exploring connections between speaker traits (sex, L1 typology, and L2 proficiency) and word error rate uncovers notable associations. Furthermore, Whisper exhibits enhanced performance in read speech over conversational speech, with modifications based on speaker gender. The implications of these findings are discussed.}
+    volume = {4},
+    number = {2},
+    pages = {025206},
+    year = {2024},
+    month = {02},
+    issn = {2691-1191},
+    doi = {10.1121/10.0024876},
+    url = {https://doi.org/10.1121/10.0024876},
+    eprint = {https://pubs.aip.org/asa/jel/article-pdf/doi/10.1121/10.0024876/19692982/025206\_1\_10.0024876.pdf},
 }
 ```
